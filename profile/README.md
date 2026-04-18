@@ -2,8 +2,6 @@
 
 **Software Architecture & Application Development Education**
 
-Simplifying complex systems and modern engineering workflows.
-
 ---
 
 ### 🌐 Socials
