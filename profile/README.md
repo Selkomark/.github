@@ -1,5 +1,24 @@
 # Selkomark
 
-Welcome to **Selkomark** - a creative game studio focused on game development and simulations.
+**Software Architecture & Application Development Education**
 
-We are passionate about crafting immersive gaming experiences and realistic simulations that push the boundaries of interactive entertainment.
+Simplifying complex systems and modern engineering workflows.
+
+---
+
+### 🌐 Socials
+- **YouTube:** [@selkomark](https://youtube.com/@selkomark)
+- **X / Twitter:** [@blackavec](https://x.com/blackavec)
+- **GitHub:** [selkomark](https://github.com/selkomark)
+- **Email:** [mahan@selkomark.com](mailto:mahan@selkomark.com)
+
+---
+
+### 🛠️ Core Focus
+- **System Design & Distributed Systems**
+- **Application Architecture**
+- **Full-Stack Development**
+
+---
+
+*“Code is easy; engineering is hard.”*
