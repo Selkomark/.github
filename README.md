@@ -8,7 +8,7 @@ Simplifying complex systems and modern engineering workflows.
 
 ### 🌐 Socials
 - **YouTube:** [@selkomark](https://youtube.com/@selkomark)
-- **X / Twitter:** [@blackavec](https://x.com/blackavec)
+- **X / Twitter:** [@selkomark](https://x.com/selkomark)
 - **GitHub:** [selkomark](https://github.com/selkomark)
 - **Email:** [mahan@selkomark.com](mailto:mahan@selkomark.com)
 
